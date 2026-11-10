@@ -1,9 +1,14 @@
-# idopNetwork-pipeline
+# idopIBD-network-analysis
 
 R code for reconstructing trait/niche interaction networks from tri-variate
 functional data. The pipeline takes three series of habitat–niche curves,
 fits power-law trajectories, clusters the trajectories by shape, and then
 infers a directed interaction network between the resulting modules.
+
+This repository accompanies the manuscript *An emergent pathogenic microbial
+consortium drives inflammatory bowel disease*: the three cohorts analysed in
+the scripts are the healthy controls (HC) and the ulcerative colitis (UC) and
+Crohn's disease (CD) patients described there.
 
 ## Pipeline overview
 
