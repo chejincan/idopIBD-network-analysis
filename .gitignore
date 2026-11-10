@@ -1,0 +1,19 @@
+# R session artifacts
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj
+.Rproj.user/
+
+# Outputs produced by the pipeline
+out/
+figures/
+*.csv
+!data/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
